@@ -10,6 +10,10 @@ Batch download twitter images in original resolution
 
 Get youtube video screenshot. Set video quality to the highest before click.
 
+## Youtube Transcript
+
+Download youtube transcript file
+
 ## Quora Unblur
 
 Remove sign in overlay
