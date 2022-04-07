@@ -1,0 +1,1 @@
+javascript:(function(){document.querySelector("#root>div.q-box>div>div.q-flex.qu-alignItems--center.qu-justifyContent--center.qu-overflow--hidden.qu-zIndex--blocking_wall").remove();var a=document.querySelector("#root>div.q-box>div>div.q-box.qu-overflow--hidden");a.style.filter="blur(0)";a.style.overflow="auto";})();
